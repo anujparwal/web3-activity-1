@@ -1,6 +1,6 @@
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
-contract Betting{
+contract Voting{
     struct Candidate{
         string Candidate_name;
         address Candidate_address;
